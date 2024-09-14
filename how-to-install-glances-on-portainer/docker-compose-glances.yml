@@ -13,7 +13,7 @@ services:
 
     # Port mapping between host and container
     ports:
-      - 7300:61208
+      - 73:61208
 
     # Environment variables
     environment:
